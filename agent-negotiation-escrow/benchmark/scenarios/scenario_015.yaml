@@ -1,0 +1,14 @@
+buyer_budget_cap: 150.0
+buyer_claim: Buyer claims deployment failed due to personal preference change.
+buyer_strategy: aggressive
+category: genuine_delivery_dispute
+delivery_outcome: genuine
+dispute_expected: true
+fair_price_range:
+- 100
+- 130
+id: scenario_015
+known_ground_truth_ruling: release_to_seller
+seller_evidence: Server deployment logs with 200 OK healthcheck proof.
+seller_minimum_price: 80.0
+seller_strategy: cooperative
