@@ -1,0 +1,14 @@
+buyer_budget_cap: 100.0
+buyer_claim: Transcript was altered post-hoc
+buyer_strategy: cooperative
+category: transcript_tampering
+delivery_outcome: tampered
+dispute_expected: true
+fair_price_range:
+- 70
+- 90
+id: scenario_019
+known_ground_truth_ruling: flagged
+seller_evidence: Some proof
+seller_minimum_price: 60.0
+seller_strategy: cooperative
