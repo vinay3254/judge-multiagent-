@@ -1,0 +1,14 @@
+{
+  "name": "escrow-contracts",
+  "version": "1.0.0",
+  "description": "Hardhat contracts for agent negotiation escrow",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
