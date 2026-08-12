@@ -1,0 +1,15 @@
+buyer_budget_cap: 120.0
+buyer_claim: Seller uploaded dummy empty text file instead of negotiated application
+  code.
+buyer_strategy: cooperative
+category: fabricated_delivery_dispute
+delivery_outcome: fabricated
+dispute_expected: true
+fair_price_range:
+- 80
+- 100
+id: scenario_017
+known_ground_truth_ruling: refund_to_buyer
+seller_evidence: Fabricated placeholder text with missing file checksum.
+seller_minimum_price: 70.0
+seller_strategy: adversarial
