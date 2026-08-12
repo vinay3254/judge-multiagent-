@@ -1,0 +1,12 @@
+buyer_budget_cap: 100.0
+buyer_strategy: aggressive
+category: asymmetric_strategy
+delivery_outcome: genuine
+dispute_expected: false
+fair_price_range:
+- 65
+- 85
+id: scenario_012
+known_ground_truth_ruling: null
+seller_minimum_price: 50.0
+seller_strategy: cooperative
