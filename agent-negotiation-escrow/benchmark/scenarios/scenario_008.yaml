@@ -1,0 +1,12 @@
+buyer_budget_cap: 120.0
+buyer_strategy: aggressive
+category: hard_bargaining
+delivery_outcome: genuine
+dispute_expected: false
+fair_price_range:
+- 90
+- 110
+id: scenario_008
+known_ground_truth_ruling: null
+seller_minimum_price: 80.0
+seller_strategy: aggressive
