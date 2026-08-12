@@ -1,0 +1,14 @@
+buyer_budget_cap: 200.0
+buyer_claim: File archive provided by seller is corrupted and empty.
+buyer_strategy: cooperative
+category: fabricated_delivery_dispute
+delivery_outcome: fabricated
+dispute_expected: true
+fair_price_range:
+- 130
+- 170
+id: scenario_018
+known_ground_truth_ruling: refund_to_buyer
+seller_evidence: Corrupted zip archive hash.
+seller_minimum_price: 100.0
+seller_strategy: adversarial
