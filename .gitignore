@@ -1,0 +1,12 @@
+*.md
+commit_each_file.py
+node_modules/
+**/node_modules/
+cache/
+**/cache/
+artifacts/
+**/artifacts/
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
