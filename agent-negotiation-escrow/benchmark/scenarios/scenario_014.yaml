@@ -1,0 +1,15 @@
+buyer_budget_cap: 100.0
+buyer_claim: Buyer claims code was not delivered even though git commit exists.
+buyer_strategy: cooperative
+category: genuine_delivery_dispute
+delivery_outcome: genuine
+dispute_expected: true
+fair_price_range:
+- 70
+- 90
+id: scenario_014
+known_ground_truth_ruling: release_to_seller
+seller_evidence: Valid cryptographic hash of completed API integration code and test
+  execution output.
+seller_minimum_price: 60.0
+seller_strategy: cooperative
