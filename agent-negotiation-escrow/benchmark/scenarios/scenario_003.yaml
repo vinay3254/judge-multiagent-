@@ -1,0 +1,12 @@
+buyer_budget_cap: 80.0
+buyer_strategy: cooperative
+category: easy_convergence
+delivery_outcome: genuine
+dispute_expected: false
+fair_price_range:
+- 55
+- 75
+id: scenario_003
+known_ground_truth_ruling: null
+seller_minimum_price: 50.0
+seller_strategy: cooperative
