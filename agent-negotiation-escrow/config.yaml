@@ -1,0 +1,13 @@
+chain:
+  arbitrator_address: null
+  delivery_confirm_timeout_seconds: 3600
+  dispute_window_seconds: 3600
+  escrow_contract_address: null
+  network: hardhat
+models:
+  arbitrator: qwen2.5-coder:32b
+  buyer_agent: qwen2.5-coder:14b
+  seller_agent: qwen2.5-coder:14b
+negotiation:
+  max_rounds: 10
+  round_timeout_seconds: 30
