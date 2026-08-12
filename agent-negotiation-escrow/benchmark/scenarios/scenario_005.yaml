@@ -1,0 +1,12 @@
+buyer_budget_cap: 50.0
+buyer_strategy: budget_capped
+category: no_deal_expected
+delivery_outcome: none
+dispute_expected: false
+fair_price_range:
+- 0
+- 0
+id: scenario_005
+known_ground_truth_ruling: null
+seller_minimum_price: 80.0
+seller_strategy: budget_capped
